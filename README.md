@@ -1,4 +1,6 @@
 # Exploring Example Influence in Continual Learning
+This is the official implementation of the Exploring Example Influence in Continual Learning in PyTorch, published at NeurIPS 2022.
+
 These five python files are the main content of our algorithm. Do not distribute.
 
 ours.py is the method to acquire influence and update model by example influence, whose results are reported as 'Ours'.
